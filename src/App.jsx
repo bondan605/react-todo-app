@@ -68,6 +68,10 @@ function App() {
 
 const styles = {
   container: {
+    borderRadius: "18px",
+    margin: "60px auto",
+    width: "80%",
+    backgroundColor: "#D1D8C5",
     textAlign: "center",
     padding: "12px",
   },

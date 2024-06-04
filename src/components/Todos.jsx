@@ -14,7 +14,7 @@ const Todos = ({ todos }) => {
 const styles = {
   container: {
     width: "40%",
-    margin: "0 auto",
+    margin: "30px auto",
   },
 };
 

@@ -28,6 +28,10 @@ const TodoItem = ({ todo }) => {
 
 const styles = {
   todoItem: {
+    color: "white",
+    margin: "12px 0",
+    borderRadius: "18px",
+    backgroundColor: "#7E8EF1",
     border: "2px solid #f4f4f4",
     fontSize: "24px",
     display: "flex",
